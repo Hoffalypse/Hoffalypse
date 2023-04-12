@@ -2,29 +2,28 @@
 
 <h2 align="center">Full Stack Web Developer with a passion for creating stunning and functional interfeced with intuitive backend functionality. </h2>
 
-![header](https://www.shutterstock.com/image-vector/excellence-banner-10-web-icons-260nw-1304197930.jpg)
+ <p align="center"> <img  src=https://www.shutterstock.com/image-vector/excellence-banner-10-web-icons-260nw-1304197930.jpg/><p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzangu0215&label=Profile%20views&color=0e75b6&style=flat" alt="Hoffalypse" /> </p>
 
-<!-- - 👨‍💻 All of my projects are available at [**PORTFOLIO**](https://zzangu0215.github.io/portfolio-v3/)
+- 👨‍💻 All of my projects are available at [**PORTFOLIO**](https://hoffalypse.github.io/bryan-wienhoff-portfolio/)
 
-- 🔭 I’m currently working on [**JOBBEE Project**](https://github.com/zzangu0215/jobbee), [**UCSD Kojobs**](https://github.com/zzangu0215/ucsd-kojobs)
-
+- 🔭 I’m currently working on [**Earthship Packaging Enterprise App**](https://github.com/Hoffalypse/earthship-packaging-dev)
 - ⚡ The powerful projects from me.
 
-  - **Group Projects**: [**JOBBEE Project**](https://github.com/zzangu0215/jobbee), [**MyKNL Project**](https://github.com/zzangu0215/myknl),  [**FANTOM**](https://github.com/zzangu0215/fantom)
-  - **Personal Projects**: [**Book Search Engine**](https://github.com/zzangu0215/book-search-engine), [**Employee Tracker**](https://github.com/zzangu0215/employee-tracker), [**Team Profile Generator**](https://github.com/zzangu0215/Team-Profile-Generator), [**E-Commerce Backend**](https://github.com/zzangu0215/e-commerce-backend), [**Workout Tracker**](https://github.com/zzangu0215/workout-tracker)
+  - **Enterprise Applications**: [**Integral Solutions**](https://github.com/stevecalla/integral-solutions-dev),  [**Earthship Packaging**](https://github.com/Hoffalypse/earthship-packaging-dev)
+  - **Personal Projects**: [**Hoff AI**](https://github.com/Hoffalypse/AI-Photo-Booth), [**Bob Dylan Video Archives**](https://github.com/Hoffalypse/Bob-Dylan-Archive)
   - **Gist**: [**Regex Tutorial**](https://gist.github.com/zzangu0215)
   - **Tutorial**: [**Contact Form Tutorial**](https://github.com/zzangu0215/contact-form-tutorial)
   - [**Shell Script Shortcuts**](https://github.com/zzangu0215/shell-shortcuts)
 
-- 🌱 I’m currently studying [**Algorithm Practice**](https://github.com/zzangu0215/algorithm-practice), and **Ruby on Rails** 
+- 🌱 I’m currently studying [**React Native**](https://github.com/Hoffalypse/Shopinmy-react-native)
 
-- 📫 How to reach me: **tajo0215@gmail.com**
+- 📫 How to reach me: **bhoff1980@gmail.com**
 
-- ⚡ Fun fact ? **I think I am a cool pet owner.**
+- ⚡ Fun fact ? **I have played and cashed in multiple World Series of Poker Events!**
 
-<h2 align="center">Specialized In</h2>
+<!-- <h2 align="center">Specialized In</h2>
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a> &nbsp
@@ -89,7 +88,7 @@
 <a href="https://www.youtube.com/channel/UCk_a__J10fet0xEe_dSNBKw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uck_a__j10fet0xee_dsnbkw" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzangu0215&show_icons=true&locale=en&layout=compact" alt="zzangu0215" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzangu0215&show_icons=true&locale=en&layout=compact" alt="zzangu0215" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzangu0215&show_icons=true&locale=en" alt="zzangu0215" /></p> -->
 
@@ -106,4 +105,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
