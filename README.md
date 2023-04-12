@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Courier New', monospace;">const Bryan_Wienhoff = () => { return Quality, Passion, Drive }</h1>
 
-<h2 align="center">Full Stack Web Developer with a passion for creating stunning and functional interfeced with intuitive backend functionality. </h2>
+<h2 align="center">Full Stack Web Developer with a passion for creating stunning and functional interfaces with intuitive backend functionality. </h2>
 
  <p align="center"> <img  src=https://www.shutterstock.com/image-vector/excellence-banner-10-web-icons-260nw-1304197930.jpg/><p>
 
@@ -11,23 +11,22 @@
 - 🔭 I’m currently working on [**Earthship Packaging Enterprise App**](https://github.com/Hoffalypse/earthship-packaging-dev)
 - ⚡ The powerful projects from me.
 
-  - **Enterprise Applications**: [**Integral Solutions**](https://github.com/stevecalla/integral-solutions-dev),  [**Earthship Packaging**](https://github.com/Hoffalypse/earthship-packaging-dev)
+  - **Enterprise Applications**: [**Integral Solutions**](https://github.com/stevecalla/integral-solutions-dev), [**Earthship Packaging**](https://github.com/Hoffalypse/earthship-packaging-dev)
   - **Personal Projects**: [**Hoff AI**](https://github.com/Hoffalypse/AI-Photo-Booth), [**Bob Dylan Video Archives**](https://github.com/Hoffalypse/Bob-Dylan-Archive)
   - **Team Projects**: [**Forest Firefighter App**](https://github.com/moyuh/fire-fighter-tracking), [**WOW Team Builder APP**](https://github.com/Hoffalypse/mythic-plus-team), [**Bandopedia Music App**](https://github.com/joseeenrique/Music-App)
   - **Gist**: [**Regex Tutorial**](https://gist.github.com/Hoffalypse/cf5958a7cc7296c4e9e038948962f603)
-  
 
 - 🌱 I’m currently studying [**React Native**](https://github.com/Hoffalypse/Shopinmy-react-native)
 
 - 📫 How to reach me: **bhoff1980@gmail.com**
 
-- ⚡ Fun fact ? **I have played and cashed in multiple World Series of Poker Events!**
-
+- ⚡ Fun fact: **I have played and cashed in multiple World Series of Poker Events!**
 
 <h3 align="center">Front End Development</h3>
 <p align="center">
-  <!-- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"></a> &nbsp -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></a> &nbsp
+    <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://assets.stickpng.com/thumbs/62a76a9bbd73a4af5c5d4fc4.png" alt="react" width="40" height="40"></a> 
+    &nbsp
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"></a> &nbsp
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"></a> &nbsp
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"></a> &nbsp
@@ -41,6 +40,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"></a> &nbsp
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"></a> &nbsp
   <a href="https://graphql.org" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"></a>
+  <a href="https://www.ibm.com/docs/en/inventory-visibility?topic=apis-rest-api-documentation" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" alt="graphql" width="40" height="40"></a>
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
@@ -77,4 +77,3 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzangu0215&show_icons=true&locale=en&layout=compact" alt="zzangu0215" /></p> -->
-
