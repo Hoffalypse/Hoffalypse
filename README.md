@@ -40,7 +40,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"></a> &nbsp
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"></a> &nbsp
   <a href="https://graphql.org" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"></a>
-  <a href="https://www.ibm.com/docs/en/inventory-visibility?topic=apis-rest-api-documentation" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" alt="graphql" width="40" height="40"></a>
+  <a href="https://www.ibm.com/docs/en/inventory-visibility?topic=apis-rest-api-documentation" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" alt="graphql" width="50" height="50"></a>
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
