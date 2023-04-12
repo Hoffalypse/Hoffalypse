@@ -25,7 +25,7 @@
 <h3 align="center">Front End Development</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></a> &nbsp
-    <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://assets.stickpng.com/thumbs/62a76a9bbd73a4af5c5d4fc4.png" alt="react" width="40" height="40"></a> 
+    <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="40" height="40"></a> 
     &nbsp
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"></a> &nbsp
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"></a> &nbsp
@@ -70,9 +70,9 @@
    
 <h2 align="center">Connect With Me:</h3>
 <p align="center">
-<a href="https://twitter.com/BryanWienhoff" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/twitter-4-logo-png-transparent.png" alt="bryan wienhoff" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bryan-wienhoff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junnyzzangu" height="30" width="40" /></a>
-<a href="https://instagram.com/therealhoff23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealhoff23 IG" height="30" width="40" /></a>
+<a href="https://twitter.com/BryanWienhoff" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="bryan wienhoff" height="40" width="40" /></a> &nbsp &nbsp
+<a href="https://www.linkedin.com/in/bryan-wienhoff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junnyzzangu" height="40" width="40" /></a> &nbsp &nbsp
+<a href="https://instagram.com/therealhoff23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealhoff23 IG" height="40" width="40" /></a>
 
 </p>
 
