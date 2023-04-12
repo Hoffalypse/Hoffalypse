@@ -1,12 +1,12 @@
 <h1 align="center" style="font-family: 'Courier New', monospace;">const Bryan_Wienhoff = () => { return Quality, Passion, Drive }</h1>
 
-<h2 align="center">Full Stack Web Developer with a passion for creating stunning and functional interfaces with intuitive backend functionality. </h2>
+<h2 align="center">Full Stack Web Developer with a passion for creating stunning and functional interfaces with intuitive organized backend functionality. </h2>
 
  <p align="center"> <img  src=https://www.shutterstock.com/image-vector/excellence-banner-10-web-icons-260nw-1304197930.jpg/><p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzangu0215&label=Profile%20views&color=0e75b6&style=flat" alt="Hoffalypse" /> </p>
 
-- 👨‍💻 All of my projects are available at [**PORTFOLIO**](https://hoffalypse.github.io/bryan-wienhoff-portfolio/)
+- 👨‍💻 See all of my projects in my [**Portfolio**](https://hoffalypse.github.io/bryan-wienhoff-portfolio/)
 
 - 🔭 I’m currently working on [**Earthship Packaging Enterprise App**](https://github.com/Hoffalypse/earthship-packaging-dev)
 - ⚡ The powerful projects from me.
@@ -68,7 +68,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"></a>
 </p>
    
-<h2 align="center">Connect with me:</h3>
+<h2 align="center">Connect With Me:</h3>
 <p align="center">
 <a href="https://twitter.com/BryanWienhoff" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/twitter-4-logo-png-transparent.png" alt="bryan wienhoff" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bryan-wienhoff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junnyzzangu" height="30" width="40" /></a>
@@ -76,4 +76,4 @@
 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzangu0215&show_icons=true&locale=en&layout=compact" alt="zzangu0215" /></p> -->
+
