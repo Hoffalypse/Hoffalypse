@@ -2,7 +2,7 @@
 
 <h2 align="center">Full Stack Web Developer with a passion for creating stunning and functional interfaces with intuitive organized backend functionality. </h2>
 
- <p align="center"> <img  src=https://www.shutterstock.com/image-vector/excellence-banner-10-web-icons-260nw-1304197930.jpg/><p>
+ <p align="center"> <img  src="./ex.jpg"><p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzangu0215&label=Profile%20views&color=0e75b6&style=flat" alt="Hoffalypse" /> </p>
 
