@@ -8,7 +8,7 @@
 
 - 👨‍💻 See all of my projects in my [**Portfolio**](https://hoffalypse.github.io/bryan-wienhoff-portfolio/)
 
-- 🔭 I’m currently working on [**Earthship Packaging Enterprise App**](https://github.com/Hoffalypse/earthship-packaging-dev)
+- 🔭 I’m currently working on [**Unscrolled Web Interface for Ganing Platform **](https://github.com/Hoffalypse/earthship-packaging-dev)
 - ⚡ The powerful projects from me.
 
   - **Enterprise Applications**: [**Integral Solutions**](https://github.com/stevecalla/integral-solutions-dev), [**Earthship Packaging**](https://github.com/Hoffalypse/earthship-packaging-dev)
